@@ -1,5 +1,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code of Conduct](https://img.shields.io/badge/code-of%20conduct-green.svg)](https://publiclab.org/conduct)
+![GitHub issues](https://img.shields.io/github/issues/palvitgarg99/DesktopInshorts?style=plastic)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/palvitgarg99/DesktopInshorts?style=plastic)
+![](https://tokei.rs/b1/github/palvitgarg99/DesktopInshorts)
+
 
 Hey there!
 
