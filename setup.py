@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='main.py',
     version='1.0.0',
-    packages=[''],
+    packages=find_packages(),
     url='https://github.com/palvitgarg99/DesktopInshorts',
     license='MIT',
     author='Palvit Garg',
