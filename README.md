@@ -3,7 +3,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/palvitgarg99/DesktopInshorts?style=plastic)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/palvitgarg99/DesktopInshorts?style=plastic)
 ![](https://tokei.rs/b1/github/palvitgarg99/DesktopInshorts)
-
+![example workflow](https://github.com/palvitgarg99/DesktopInshorts/actions/workflows/python-app.yml/badge.svg)
 
 Hey there!
 
