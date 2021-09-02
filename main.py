@@ -21,7 +21,6 @@ def update_data(category):
     global data
     response = requests.get(api_url + str(category))
     data = json.loads(response.text)
-    print(data['total'], "pp")
 
 
 class Root(Tk):
