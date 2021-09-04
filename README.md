@@ -15,7 +15,7 @@ We provide you the flexibility to choose from common categories :)
 ![image](https://user-images.githubusercontent.com/16212546/131645231-8f597e5b-4bde-41c5-9241-3be123f5f3e8.png)
 
 # Usage
-For usage Please have a look at https://github.com/sumitkolhe/inshorts-api-v2#mag-usage
+For usage you can run main.py for now. Soon we will add steps to create executable for easy launch of application.
 
 As of now we have used the end points exposed under this project: https://github.com/sumitkolhe/inshorts-api-v2
 
