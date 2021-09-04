@@ -17,7 +17,8 @@ We provide you the flexibility to choose from common categories :)
 # Usage
 For usage you can run main.py for now. Soon we will add steps to create executable for easy launch of application.
 
-As of now we have used the end points exposed under this project: https://github.com/sumitkolhe/inshorts-api-v2
+# Data backend
+As of now we have used the end points exposed under this project: https://github.com/sumitkolhe/inshorts-api-v2 to retrieve latest news.
 
 # How to Contribute?
 Please take a look at our CONTRIBUTING.md where we provide instructions on contributing to the repo. We welcome any contributions and constructive feedback.
