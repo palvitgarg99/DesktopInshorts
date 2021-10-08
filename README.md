@@ -4,7 +4,7 @@
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/palvitgarg99/DesktopInshorts?style=plastic)
 ![](https://tokei.rs/b1/github/palvitgarg99/DesktopInshorts)
 ![example workflow](https://github.com/palvitgarg99/DesktopInshorts/actions/workflows/python-app.yml/badge.svg)
-
+[![DOI](https://zenodo.org/badge/401991823.svg)](https://zenodo.org/badge/latestdoi/401991823)
 # DeskTop InShorts
 Hey there!
 
