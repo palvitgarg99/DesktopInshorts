@@ -5,6 +5,7 @@
 ![](https://tokei.rs/b1/github/palvitgarg99/DesktopInshorts)
 ![example workflow](https://github.com/palvitgarg99/DesktopInshorts/actions/workflows/python-app.yml/badge.svg)
 [![DOI](https://zenodo.org/badge/401991823.svg)](https://zenodo.org/badge/latestdoi/401991823)
+[![Build Status](https://app.travis-ci.com/palvitgarg99/DesktopInshorts.svg?branch=main)](https://app.travis-ci.com/palvitgarg99/DesktopInshorts)
 # DeskTop InShorts
 Hey there!
 
